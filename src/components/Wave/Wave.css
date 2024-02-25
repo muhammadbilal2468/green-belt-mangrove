@@ -13,7 +13,7 @@
 
 .water {
   width: 100%;
-  background-color: blue;
+  /* background-color: blue; */
   animation: animate 4s ease-in-out infinite;
 }
 
