@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Acanthus ebracteatus",
+    "desc": "seluruh bagiannya lebih kecil",
+    "leaf": "Pinggiran daun umumya rata kadang bergerigi seperti A. ilicifolius. Unit & Letak: Sederhana, berlawanan. Bentuk: lanset. Ujung: meruncing. Ukuran: 7-20 x 4-10 cm",
+    "flower": "Mahkota bunga berwarna biru muda hingga ungu lembayung cerah, kadangagak putih di bagian ujungnya. Panjang tandan bunga lebih pendek dari A. ilicifolius, sedangkan bunganya sendiri 2-2,5 cm. Bunga hanya mempunyai satu pinak daun utama, karena yang sekunder biasanya cepat rontok. Letak: di ujung. Formasi: bulir",
+    "fruit": "Warna buah saat masih muda hijau cerah dan permukaannya licin mengkilat. Bentuk buah bulat lonjong seperti buah melinjo. Ukuran: Buah panjang 2,5-3 cm, biji 5-7 mm",
+    "ecology": "Ketika tumbuh bersamaan dengan A. ilicifolius keduanya memperlihatkan adanya karakter yang berbeda sebagaimana diuraikan dalam deskripsi, akan tetapi sering sekali membingungkan. Berbunga pada bulan Juni.",
+    "distribution": "Dari India sampai Australia Tropis, Filipina, dan Kepulauan Pasifik Barat. Terdapat di seluruh Indonesia.",
+    "benefit": "Buah digunakan sebagai “pembersih” darah serta untuk mengatasi kulit terbakar.Daun mengobati reumatik. Perasan buah atau akar kadang-kadang digunakan untuk mengatasi racun gigitan ular atau terkena panah beracun. Biji konon bisa mengatasi serangan cacing dalam pencernaan."
+  },
+  {
+    "id": 2,
+    "title": "Acanthus ilicifolius",
+    "desc": "Herba rendah, terjurai di permukaan tanah, kuat, agak berkayu, ketinggianhingga 2m. Cabang umumnya tegak tapi cenderung kurus sesuai dengan umurnya. Percabangan tidak banyak dan umumnya muncul dari bagian-bagian yang lebih tua. Akar udara muncul dari permukaan bawah batang horizontal.",
+    "leaf": "Dua sayap gagang daun yang berduri terletak pada tangkai. Permukaan daunchalus, tepi daun bervariasi: zigzag/bergerigi besar-besar seperti gergaji atau agakcrata dan secara gradual menyempit menuju pangkal. Unit & letak: sederhana, berlawanan. Bentuk: lanset lebar. Ujung: meruncing dan berduri tajam. Ukuran:c9-30 x 4-12 cm",
+    "flower": "Mahkota bunga berwarna biru muda hingga ungu lembayung, kadang agak putih. Panjang tandan bunga 10-20 cm, sedangkan bunganya sendiri 5-4 cm. Bunga memiliki satu pinak daun penutup utama dan dua sekunder. Pinak daun tersebut tetap menempel seumur hidup pohon. Letak: di ujung. Formasi: bulir.",
+    "fruit": "Warna buah saat masih muda hijau cerah dan permukaannya licin mengkilat. Bentuk buah bulat lonjong seperti buah melinjo. Ukuran: buah panjang 2,5- 3 cm, biji 10 mm",
+    "ecology": "Biasanya pada atau dekat mangrove, sangat jarang di daratan. Memiliki kekhasan sebagai herba yang tumbuh rendah dan kuat, yang memiliki kemampuan untuk menyebar secara vegetatif karena perakarannya yang berasal dari batang horizontal, sehingga membentuk bagian yang besar dan kukuh. Bunga kemungkinan diserbuki oleh burung dan serangga. Biji tertiup angin, sampai sejauh 2 m. Di Bali berbuah sekitar Agustus.",
+    "distribution": "Dari India hingga Australia tropis, Filipina dan Kepulauan Pasifik barat. Terdapat di seluruh Indonesia.",
+    "benefit": "Buah ditumbuk dan digunakan untuk “pembersih” darah serta mengatasi kulit terbakar. Daun mengobati reumatik. Perasan buah atau akar kadang-kadang digunakan untuk mengatasi racun gigitan ular atau terkena panah beracun. Biji konon bisa mengatasi serangan cacing dalam pencernaan. Pohon juga dapat digunakan sebagai makanan ternak."
+  },
+  {
+    "id": 3,
+    "title": "Acrostichum speciosum",
+    "desc": "Ferna tanah, membentuk tandan yang kasar dengan ketinggian hingga 1,5 m. Sisik pada akar rimpang panjangnya hingga 8 mm.",
+    "leaf": "Sangat mencolok, pada umumnya panjangnya kurang dari 1 m dan memiliki pinak daun fertil berwarna karat pada bagian ujungnya, tertutup secara seragam oleh sporangia besar. Pinak daun berukuran kira-kira 28 x 10 cm. Pinak daun yang steril memiliki ujung lebih kecil dan menyempit. Jenis ini berbeda dengan A.aureum dalam hal ukuran pinak daunnya yang lebih kecil dan ujungnya meruncing, permukaan bagian bawah pinak daun yang fertil berwarna coklat tua dan ditutupi oleh sporangia, serta daun mudanya berwarna hijau-kecoklatan. Peruratan daun berbentuk jaring. Sisik luas, panjang hingga 1 cm, hanya terdapat di bagian pangkal daun. Sisik menebal di bagian tengah. Spora besar dan berbentuk tetrahedral .",
+    "flower": "",
+    "fruit": "",
+    "ecology": "Ferna tahunan. Tumbuh pada areal mangrove yang lebih sering tergenang oleh pasang surut. Khususnya tumbuh pada gundukan lumpur yang “dibangun” oleh udang dan kepiting. Biasanya menyukai areal yang terlindung. Daun yang fertil dihasilkan pada bulan Agustus hingga April. “Kecambah” (sebenarnya “bibit spora”) berlimpah pada bulan Januari hingga April (di Jawa).",
+    "distribution": "Asia dan Australia tropis. Di seluruh Indonesia",
+    "benefit": "Daun digunakan sebagai alas kandang ternak."
+  },
+  {
+    "id": 4,
+    "title": "Aegialitis annulata",
+    "desc": "Semak kecil, umumnya memiliki ketinggian 1,5-3 meter, kadang-kadang dijumpai sebagai pohon sampai 7 meter tingginya. Biasanya memiliki akar yang menjalar pada permukaan tanah, dan ranting dengan goresan berbentuk cincin. Kadang-kadang memiliki akar tunjang. Kulit kayu bagian luar berwarna hitam, halus dan kemudian bercelah sejalan dengan bertambahnya umur. Diameter batang sampai 20 cm, bengkak pada bagian pangkal dan memiliki tekstur seperti busa.",
+    "leaf": "Terdapat lobang longitudinal dan kelenjar garam. Gagang daun panjangnya 8 cm. Unit & Letak: sederhana & bersilangan. Bentuk: lanset seperti pedang. Ujung: meruncing. Ukuran: 6-9 x 2-5 cm.",
+    "flower": "Tandan bunga yang asimetris memiliki banyak bunga. Letak: di ujung tandan/ tangkai bunga. Formasi: payung (ada banyak bunga). Daun Mahkota: 5; putih kadang abu-abu pucat, tumpang tindih; 5-8 mm. Kelopak Bunga: 5; bentuk tabung; 7-8 mm.",
+    "fruit": "Buah berbentuk kapsul melengkung, memiliki 5 sudut, berwarna kemerahan ketika telah matang. Ukuran: 3-4 x 4-5 cm.",
+    "ecology": "Tumbuh pada daerah mangrove terbuka sebagai individu yang terpisah atau dalam kelompok kecil. Juga tumbuh pada daerah yang lebih berpasir dan berkarang serta tergenang oleh air dengan salinitas yang sama dengan air laut (pada akhir musim kering). Penyerbukan dilaporkan dibantu oleh semut. Di Australia, perbungaan terjadi pada bulan September - November, sedangkan buah yang matang tumbuh pada bulan Januari - Maret",
+    "distribution": "Kepulauan Sunda kecil, Maluku, PNG dan Australia Utara.",
+    "benefit": "Memiliki kandungan tanin yang sangat tinggi, akan tetapi penggunaannya belum pernah dilaporkan."
+  }
+]
